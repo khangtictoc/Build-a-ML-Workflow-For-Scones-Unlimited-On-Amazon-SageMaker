@@ -1,0 +1,9 @@
+**/core.*
+**/AutogluonModels
+**/.ipynb_checkpoints
+
+**/dataset/
+!**/dataset/*.csv
+
+**/library/**
+**/captured_data/**
